@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Gallery xmlns:android = "http://schemas.android.com/apk/res/android"
+         android:id = "@+id/gallery"
+         android:layout_width = "fill_parent"
+         android:layout_height = "wrap_content"
+         android:layout_gravity = "center_vertical"
+         android:spacing = "1dip"
+		/>
+<!-- From: file:/E:/workspaces/10.Android-Universal-Image-Loader1/app/src/main/res/layout/ac_image_gallery.xml -->

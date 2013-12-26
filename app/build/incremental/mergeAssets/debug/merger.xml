@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="E:\workspaces\10.Android-Universal-Image-Loader1\app\src\main\assets" >
+            <file
+                name="Living Things @#&amp;=+-_.,!()~&apos;%20.jpg"
+                path="E:\workspaces\10.Android-Universal-Image-Loader1\app\src\main\assets\Living Things @#&amp;=+-_.,!()~&apos;%20.jpg" />
+            <file
+                name="Universal Image Loader @#&amp;=+-_.,!()~&apos;%20.png"
+                path="E:\workspaces\10.Android-Universal-Image-Loader1\app\src\main\assets\Universal Image Loader @#&amp;=+-_.,!()~&apos;%20.png" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="E:\workspaces\10.Android-Universal-Image-Loader1\app\src\debug\assets" />
+    </dataSet>
+
+</merger>

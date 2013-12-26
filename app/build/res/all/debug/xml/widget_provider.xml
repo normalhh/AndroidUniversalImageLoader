@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android = "http://schemas.android.com/apk/res/android"
+                    android:initialLayout = "@layout/widget"
+                    android:minHeight = "40dp"
+                    android:minWidth = "110dp"
+                    android:updatePeriodMillis = "86400000" />
+
+<!-- From: file:/E:/workspaces/10.Android-Universal-Image-Loader1/app/src/main/res/xml/widget_provider.xml -->
